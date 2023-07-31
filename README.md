@@ -1,6 +1,6 @@
 **Hi there 👋**  
-**My name is jademon!**
-Welcome to my GitHub profile
+**My name is jademon.**
+Welcome to my GitHub profile!
 
 ## 📒 About me
 Student Developer, currently studying in Gyeongbuk Software High School, South Korea :kr:.
