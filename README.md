@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 📒 About me
-Student Developer, currently studying in Gyeongbuk Software High School, South Korea :kr:.
+Student Developer, currently studying in Chungbuk National University, South Korea :kr:.
 
 ## 📚 My Algorithm History
 ![Jademon's solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=jademon)
